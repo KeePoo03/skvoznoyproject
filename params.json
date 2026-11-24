@@ -3,6 +3,6 @@
   "random_state": 42,
   "model": "linear",
   "alpha": 1.0,
-  "bins": 0,
+  "bins": 8,
   "bin_strategy": "uniform"
 }
